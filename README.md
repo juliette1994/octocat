@@ -1,2 +1,2 @@
-# octocat
+# Octocat
 C Project
